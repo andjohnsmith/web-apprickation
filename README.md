@@ -21,5 +21,4 @@ npm run build
 
 # Todo
 
-1. Resize the banner logo and add more spacing at bottom of page.
-2. Add pagination.
+1. Add pagination.
