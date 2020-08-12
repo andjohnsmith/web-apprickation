@@ -14,10 +14,10 @@ const CharacterItem = ({ item }) => {
               <strong>Species:</strong> {item.species}
             </li>
             <li>
-              <strong>Origin:</strong> {item.origin.name}
+              <strong>Gender:</strong> {item.gender}
             </li>
             <li>
-              <strong>Location:</strong> {item.location.name}
+              <strong>Origin:</strong> {item.origin.name}
             </li>
             <li>
               <strong>Status:</strong> {item.status}
